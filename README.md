@@ -62,14 +62,6 @@ bin/
 - 📊 **Analytics**: Show task completion stats.
 - 🌈 **Theme Support**: Allow users to switch between light and dark themes.
 
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to open issues or submit pull requests.
-
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## 🙌 Acknowledgments
 
 Special thanks to:
